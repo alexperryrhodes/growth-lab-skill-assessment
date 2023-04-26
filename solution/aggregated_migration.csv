@@ -1,0 +1,361 @@
+year,previous_division,previous_division_id,current_region,current_region_id,estimate
+2010,East North Central,D3,Midwest,R2,305332
+2010,East North Central,D3,Northeast,R1,77871
+2010,East North Central,D3,South,R3,356381
+2010,East North Central,D3,West,R4,145625
+2010,East South Central,D6,Midwest,R2,69877
+2010,East South Central,D6,Northeast,R1,17222
+2010,East South Central,D6,South,R3,271232
+2010,East South Central,D6,West,R4,45387
+2010,Middle Atlantic,D2,Midwest,R2,71902
+2010,Middle Atlantic,D2,Northeast,R1,268201
+2010,Middle Atlantic,D2,South,R3,336763
+2010,Middle Atlantic,D2,West,R4,90055
+2010,Mountain,D8,Midwest,R2,104113
+2010,Mountain,D8,Northeast,R1,39678
+2010,Mountain,D8,South,R3,177371
+2010,Mountain,D8,West,R4,348792
+2010,New England,D1,Midwest,R2,24985
+2010,New England,D1,Northeast,R1,163944
+2010,New England,D1,South,R3,111818
+2010,New England,D1,West,R4,46701
+2010,Pacific,D9,Midwest,R2,115049
+2010,Pacific,D9,Northeast,R1,99244
+2010,Pacific,D9,South,R3,300930
+2010,Pacific,D9,West,R4,469022
+2010,South Atlantic,D5,Midwest,R2,187526
+2010,South Atlantic,D5,Northeast,R1,240247
+2010,South Atlantic,D5,South,R3,890562
+2010,South Atlantic,D5,West,R4,206428
+2010,West North Central,D4,Midwest,R2,229954
+2010,West North Central,D4,Northeast,R1,23469
+2010,West North Central,D4,South,R3,150758
+2010,West North Central,D4,West,R4,102138
+2010,West South Central,D7,Midwest,R2,114302
+2010,West South Central,D7,Northeast,R1,41708
+2010,West South Central,D7,South,R3,327183
+2010,West South Central,D7,West,R4,171459
+2011,East North Central,D3,Midwest,R2,308953
+2011,East North Central,D3,Northeast,R1,74697
+2011,East North Central,D3,South,R3,364995
+2011,East North Central,D3,West,R4,161515
+2011,East South Central,D6,Midwest,R2,81710
+2011,East South Central,D6,Northeast,R1,25266
+2011,East South Central,D6,South,R3,275844
+2011,East South Central,D6,West,R4,46082
+2011,Middle Atlantic,D2,Midwest,R2,79957
+2011,Middle Atlantic,D2,Northeast,R1,273133
+2011,Middle Atlantic,D2,South,R3,358619
+2011,Middle Atlantic,D2,West,R4,97587
+2011,Mountain,D8,Midwest,R2,122582
+2011,Mountain,D8,Northeast,R1,40241
+2011,Mountain,D8,South,R3,191236
+2011,Mountain,D8,West,R4,389991
+2011,New England,D1,Midwest,R2,32518
+2011,New England,D1,Northeast,R1,167490
+2011,New England,D1,South,R3,120885
+2011,New England,D1,West,R4,42514
+2011,Pacific,D9,Midwest,R2,125701
+2011,Pacific,D9,Northeast,R1,93600
+2011,Pacific,D9,South,R3,304849
+2011,Pacific,D9,West,R4,489422
+2011,South Atlantic,D5,Midwest,R2,196424
+2011,South Atlantic,D5,Northeast,R1,249911
+2011,South Atlantic,D5,South,R3,894327
+2011,South Atlantic,D5,West,R4,208592
+2011,West North Central,D4,Midwest,R2,232512
+2011,West North Central,D4,Northeast,R1,23352
+2011,West North Central,D4,South,R3,156974
+2011,West North Central,D4,West,R4,106270
+2011,West South Central,D7,Midwest,R2,120695
+2011,West South Central,D7,Northeast,R1,38386
+2011,West South Central,D7,South,R3,327859
+2011,West South Central,D7,West,R4,162727
+2012,East North Central,D3,Midwest,R2,309676
+2012,East North Central,D3,Northeast,R1,65945
+2012,East North Central,D3,South,R3,361423
+2012,East North Central,D3,West,R4,158165
+2012,East South Central,D6,Midwest,R2,83249
+2012,East South Central,D6,Northeast,R1,18858
+2012,East South Central,D6,South,R3,285786
+2012,East South Central,D6,West,R4,55111
+2012,Middle Atlantic,D2,Midwest,R2,79450
+2012,Middle Atlantic,D2,Northeast,R1,283579
+2012,Middle Atlantic,D2,South,R3,382859
+2012,Middle Atlantic,D2,West,R4,116334
+2012,Mountain,D8,Midwest,R2,115126
+2012,Mountain,D8,Northeast,R1,40032
+2012,Mountain,D8,South,R3,202279
+2012,Mountain,D8,West,R4,377154
+2012,New England,D1,Midwest,R2,26292
+2012,New England,D1,Northeast,R1,179146
+2012,New England,D1,South,R3,110641
+2012,New England,D1,West,R4,56924
+2012,Pacific,D9,Midwest,R2,126127
+2012,Pacific,D9,Northeast,R1,84814
+2012,Pacific,D9,South,R3,295325
+2012,Pacific,D9,West,R4,494941
+2012,South Atlantic,D5,Midwest,R2,210398
+2012,South Atlantic,D5,Northeast,R1,241050
+2012,South Atlantic,D5,South,R3,913956
+2012,South Atlantic,D5,West,R4,209555
+2012,West North Central,D4,Midwest,R2,233018
+2012,West North Central,D4,Northeast,R1,19277
+2012,West North Central,D4,South,R3,156310
+2012,West North Central,D4,West,R4,111863
+2012,West South Central,D7,Midwest,R2,124666
+2012,West South Central,D7,Northeast,R1,41847
+2012,West South Central,D7,South,R3,330109
+2012,West South Central,D7,West,R4,169060
+2013,East North Central,D3,Midwest,R2,320091
+2013,East North Central,D3,Northeast,R1,69532
+2013,East North Central,D3,South,R3,377450
+2013,East North Central,D3,West,R4,151752
+2013,East South Central,D6,Midwest,R2,78548
+2013,East South Central,D6,Northeast,R1,20038
+2013,East South Central,D6,South,R3,277378
+2013,East South Central,D6,West,R4,51895
+2013,Middle Atlantic,D2,Midwest,R2,78687
+2013,Middle Atlantic,D2,Northeast,R1,274110
+2013,Middle Atlantic,D2,South,R3,382299
+2013,Middle Atlantic,D2,West,R4,115958
+2013,Mountain,D8,Midwest,R2,113372
+2013,Mountain,D8,Northeast,R1,38834
+2013,Mountain,D8,South,R3,209295
+2013,Mountain,D8,West,R4,380015
+2013,New England,D1,Midwest,R2,29915
+2013,New England,D1,Northeast,R1,180145
+2013,New England,D1,South,R3,119156
+2013,New England,D1,West,R4,50726
+2013,Pacific,D9,Midwest,R2,135371
+2013,Pacific,D9,Northeast,R1,92399
+2013,Pacific,D9,South,R3,312531
+2013,Pacific,D9,West,R4,504479
+2013,South Atlantic,D5,Midwest,R2,215315
+2013,South Atlantic,D5,Northeast,R1,250053
+2013,South Atlantic,D5,South,R3,923487
+2013,South Atlantic,D5,West,R4,231323
+2013,West North Central,D4,Midwest,R2,241809
+2013,West North Central,D4,Northeast,R1,22172
+2013,West North Central,D4,South,R3,152466
+2013,West North Central,D4,West,R4,119520
+2013,West South Central,D7,Midwest,R2,119641
+2013,West South Central,D7,Northeast,R1,48406
+2013,West South Central,D7,South,R3,341697
+2013,West South Central,D7,West,R4,177468
+2014,East North Central,D3,Midwest,R2,350330
+2014,East North Central,D3,Northeast,R1,65628
+2014,East North Central,D3,South,R3,370967
+2014,East North Central,D3,West,R4,168479
+2014,East South Central,D6,Midwest,R2,89161
+2014,East South Central,D6,Northeast,R1,23352
+2014,East South Central,D6,South,R3,279356
+2014,East South Central,D6,West,R4,50882
+2014,Middle Atlantic,D2,Midwest,R2,92936
+2014,Middle Atlantic,D2,Northeast,R1,277877
+2014,Middle Atlantic,D2,South,R3,386644
+2014,Middle Atlantic,D2,West,R4,127044
+2014,Mountain,D8,Midwest,R2,113168
+2014,Mountain,D8,Northeast,R1,43234
+2014,Mountain,D8,South,R3,204701
+2014,Mountain,D8,West,R4,395485
+2014,New England,D1,Midwest,R2,31263
+2014,New England,D1,Northeast,R1,175341
+2014,New England,D1,South,R3,125459
+2014,New England,D1,West,R4,48941
+2014,Pacific,D9,Midwest,R2,129550
+2014,Pacific,D9,Northeast,R1,89244
+2014,Pacific,D9,South,R3,312465
+2014,Pacific,D9,West,R4,516736
+2014,South Atlantic,D5,Midwest,R2,204587
+2014,South Atlantic,D5,Northeast,R1,242131
+2014,South Atlantic,D5,South,R3,954891
+2014,South Atlantic,D5,West,R4,227886
+2014,West North Central,D4,Midwest,R2,232774
+2014,West North Central,D4,Northeast,R1,22565
+2014,West North Central,D4,South,R3,165971
+2014,West North Central,D4,West,R4,126300
+2014,West South Central,D7,Midwest,R2,125398
+2014,West South Central,D7,Northeast,R1,46081
+2014,West South Central,D7,South,R3,325689
+2014,West South Central,D7,West,R4,191653
+2015,East North Central,D3,Midwest,R2,340514
+2015,East North Central,D3,Northeast,R1,69870
+2015,East North Central,D3,South,R3,390468
+2015,East North Central,D3,West,R4,181172
+2015,East South Central,D6,Midwest,R2,87208
+2015,East South Central,D6,Northeast,R1,19204
+2015,East South Central,D6,South,R3,305395
+2015,East South Central,D6,West,R4,56347
+2015,Middle Atlantic,D2,Midwest,R2,88962
+2015,Middle Atlantic,D2,Northeast,R1,295912
+2015,Middle Atlantic,D2,South,R3,428213
+2015,Middle Atlantic,D2,West,R4,126035
+2015,Mountain,D8,Midwest,R2,116938
+2015,Mountain,D8,Northeast,R1,42659
+2015,Mountain,D8,South,R3,203486
+2015,Mountain,D8,West,R4,376275
+2015,New England,D1,Midwest,R2,34728
+2015,New England,D1,Northeast,R1,174918
+2015,New England,D1,South,R3,137831
+2015,New England,D1,West,R4,61650
+2015,Pacific,D9,Midwest,R2,129894
+2015,Pacific,D9,Northeast,R1,83965
+2015,Pacific,D9,South,R3,282457
+2015,Pacific,D9,West,R4,536173
+2015,South Atlantic,D5,Midwest,R2,199738
+2015,South Atlantic,D5,Northeast,R1,231249
+2015,South Atlantic,D5,South,R3,984890
+2015,South Atlantic,D5,West,R4,248472
+2015,West North Central,D4,Midwest,R2,252766
+2015,West North Central,D4,Northeast,R1,21817
+2015,West North Central,D4,South,R3,177363
+2015,West North Central,D4,West,R4,122606
+2015,West South Central,D7,Midwest,R2,126669
+2015,West South Central,D7,Northeast,R1,47558
+2015,West South Central,D7,South,R3,358118
+2015,West South Central,D7,West,R4,188609
+2016,East North Central,D3,Midwest,R2,337519
+2016,East North Central,D3,Northeast,R1,75428
+2016,East North Central,D3,South,R3,381114
+2016,East North Central,D3,West,R4,171153
+2016,East South Central,D6,Midwest,R2,91864
+2016,East South Central,D6,Northeast,R1,21843
+2016,East South Central,D6,South,R3,294507
+2016,East South Central,D6,West,R4,55370
+2016,Middle Atlantic,D2,Midwest,R2,86873
+2016,Middle Atlantic,D2,Northeast,R1,295281
+2016,Middle Atlantic,D2,South,R3,413321
+2016,Middle Atlantic,D2,West,R4,139283
+2016,Mountain,D8,Midwest,R2,118528
+2016,Mountain,D8,Northeast,R1,39400
+2016,Mountain,D8,South,R3,200733
+2016,Mountain,D8,West,R4,381000
+2016,New England,D1,Midwest,R2,34159
+2016,New England,D1,Northeast,R1,194402
+2016,New England,D1,South,R3,142694
+2016,New England,D1,West,R4,56432
+2016,Pacific,D9,Midwest,R2,121753
+2016,Pacific,D9,Northeast,R1,91589
+2016,Pacific,D9,South,R3,308369
+2016,Pacific,D9,West,R4,541703
+2016,South Atlantic,D5,Midwest,R2,211279
+2016,South Atlantic,D5,Northeast,R1,233971
+2016,South Atlantic,D5,South,R3,972268
+2016,South Atlantic,D5,West,R4,261104
+2016,West North Central,D4,Midwest,R2,242880
+2016,West North Central,D4,Northeast,R1,26408
+2016,West North Central,D4,South,R3,168740
+2016,West North Central,D4,West,R4,127320
+2016,West South Central,D7,Midwest,R2,128825
+2016,West South Central,D7,Northeast,R1,48923
+2016,West South Central,D7,South,R3,347413
+2016,West South Central,D7,West,R4,189087
+2017,East North Central,D3,Midwest,R2,314580
+2017,East North Central,D3,Northeast,R1,71889
+2017,East North Central,D3,South,R3,373591
+2017,East North Central,D3,West,R4,179499
+2017,East South Central,D6,Midwest,R2,91326
+2017,East South Central,D6,Northeast,R1,21033
+2017,East South Central,D6,South,R3,272315
+2017,East South Central,D6,West,R4,49990
+2017,Middle Atlantic,D2,Midwest,R2,87708
+2017,Middle Atlantic,D2,Northeast,R1,310098
+2017,Middle Atlantic,D2,South,R3,400766
+2017,Middle Atlantic,D2,West,R4,133603
+2017,Mountain,D8,Midwest,R2,111365
+2017,Mountain,D8,Northeast,R1,41251
+2017,Mountain,D8,South,R3,210821
+2017,Mountain,D8,West,R4,360236
+2017,New England,D1,Midwest,R2,28921
+2017,New England,D1,Northeast,R1,186765
+2017,New England,D1,South,R3,118698
+2017,New England,D1,West,R4,57823
+2017,Pacific,D9,Midwest,R2,135671
+2017,Pacific,D9,Northeast,R1,95438
+2017,Pacific,D9,South,R3,298750
+2017,Pacific,D9,West,R4,549003
+2017,South Atlantic,D5,Midwest,R2,206118
+2017,South Atlantic,D5,Northeast,R1,260578
+2017,South Atlantic,D5,South,R3,933352
+2017,South Atlantic,D5,West,R4,264952
+2017,West North Central,D4,Midwest,R2,248185
+2017,West North Central,D4,Northeast,R1,28905
+2017,West North Central,D4,South,R3,164489
+2017,West North Central,D4,West,R4,128369
+2017,West South Central,D7,Midwest,R2,133477
+2017,West South Central,D7,Northeast,R1,47008
+2017,West South Central,D7,South,R3,363869
+2017,West South Central,D7,West,R4,191051
+2018,East North Central,D3,Midwest,R2,319437
+2018,East North Central,D3,Northeast,R1,67214
+2018,East North Central,D3,South,R3,356015
+2018,East North Central,D3,West,R4,164272
+2018,East South Central,D6,Midwest,R2,90155
+2018,East South Central,D6,Northeast,R1,21427
+2018,East South Central,D6,South,R3,284539
+2018,East South Central,D6,West,R4,52404
+2018,Middle Atlantic,D2,Midwest,R2,91237
+2018,Middle Atlantic,D2,Northeast,R1,320032
+2018,Middle Atlantic,D2,South,R3,391694
+2018,Middle Atlantic,D2,West,R4,127204
+2018,Mountain,D8,Midwest,R2,122950
+2018,Mountain,D8,Northeast,R1,42023
+2018,Mountain,D8,South,R3,220583
+2018,Mountain,D8,West,R4,370034
+2018,New England,D1,Midwest,R2,30695
+2018,New England,D1,Northeast,R1,180795
+2018,New England,D1,South,R3,139284
+2018,New England,D1,West,R4,63378
+2018,Pacific,D9,Midwest,R2,125012
+2018,Pacific,D9,Northeast,R1,90741
+2018,Pacific,D9,South,R3,348580
+2018,Pacific,D9,West,R4,588521
+2018,South Atlantic,D5,Midwest,R2,198853
+2018,South Atlantic,D5,Northeast,R1,239216
+2018,South Atlantic,D5,South,R3,973104
+2018,South Atlantic,D5,West,R4,256318
+2018,West North Central,D4,Midwest,R2,241676
+2018,West North Central,D4,Northeast,R1,22641
+2018,West North Central,D4,South,R3,182839
+2018,West North Central,D4,West,R4,123745
+2018,West South Central,D7,Midwest,R2,121408
+2018,West South Central,D7,Northeast,R1,54704
+2018,West South Central,D7,South,R3,355704
+2018,West South Central,D7,West,R4,192848
+2019,East North Central,D3,Midwest,R2,307933
+2019,East North Central,D3,Northeast,R1,68434
+2019,East North Central,D3,South,R3,367230
+2019,East North Central,D3,West,R4,153562
+2019,East South Central,D6,Midwest,R2,86151
+2019,East South Central,D6,Northeast,R1,24011
+2019,East South Central,D6,South,R3,255458
+2019,East South Central,D6,West,R4,50797
+2019,Middle Atlantic,D2,Midwest,R2,91922
+2019,Middle Atlantic,D2,Northeast,R1,310654
+2019,Middle Atlantic,D2,South,R3,397776
+2019,Middle Atlantic,D2,West,R4,125741
+2019,Mountain,D8,Midwest,R2,113557
+2019,Mountain,D8,Northeast,R1,40114
+2019,Mountain,D8,South,R3,233172
+2019,Mountain,D8,West,R4,367554
+2019,New England,D1,Midwest,R2,33542
+2019,New England,D1,Northeast,R1,192024
+2019,New England,D1,South,R3,126044
+2019,New England,D1,West,R4,66017
+2019,Pacific,D9,Midwest,R2,124854
+2019,Pacific,D9,Northeast,R1,93125
+2019,Pacific,D9,South,R3,335360
+2019,Pacific,D9,West,R4,534244
+2019,South Atlantic,D5,Midwest,R2,206158
+2019,South Atlantic,D5,Northeast,R1,242632
+2019,South Atlantic,D5,South,R3,976344
+2019,South Atlantic,D5,West,R4,251364
+2019,West North Central,D4,Midwest,R2,243650
+2019,West North Central,D4,Northeast,R1,23810
+2019,West North Central,D4,South,R3,143661
+2019,West North Central,D4,West,R4,112417
+2019,West South Central,D7,Midwest,R2,116056
+2019,West South Central,D7,Northeast,R1,53463
+2019,West South Central,D7,South,R3,337545
+2019,West South Central,D7,West,R4,191961
