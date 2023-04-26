@@ -6,19 +6,21 @@ This repo has two folders: the problem folder and my solution to the problem.
 
 The solution folder contains three separate python files, each of which solves one of the assigned tasks:
 
-- task-1.py: Produces a csv file containing aggregated census data
+- task-1.py: Produces a csv file containing aggregated census data at division/region/year level
   - To run in terminal:
     1. clone repo
     2. cd solution 
     3. python task-1.py
   - Output file will be created in the same folder as "aggregated_migration.csv"
-- task-2.py:
+
+- task-2.py: Produces a csv file containing specified data for North Carolina
   - To run in terminal: 
     1. clone repo
     2. cd solution
     3. python task-2.py
   - Output file will be created in the same folder as "nc_migration.csv"
-- task-3.py:
+
+- task-3.py: Builds a web API which allows access to North Carolina census data
   - To run in terminal:
     1. clone repo
     2. cd solution
