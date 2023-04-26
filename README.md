@@ -8,7 +8,7 @@ The solution folder contains three separate python files, each of which solves o
 
 - task-1.py: Produces a csv file containing aggregated census data
   - To run in terminal:
-    1. clone repo,
+    1. clone repo
     2. cd solution 
     3. python task-1.py
   - Output file will be created in the same folder as "aggregated_migration.csv"
@@ -29,4 +29,4 @@ The solution folder contains three separate python files, each of which solves o
     - /previous_division/`<id>`/
     - /previous_division/`<id>`/`<year>`/
 
-In addition the solution folder contains a helper function file which is required to support all three task files. 
+In addition, the solution folder contains a helper function file which is required to support all three task files. 
